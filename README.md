@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently studying Information Technology while working for a non-profit as a Solutions Delivery Specialist. 
+
+I work across multiple systems including Salesforce, Marketing Cloud, Formstack, Surveymonkey...
+
+I'm keen to learn web development and software development skills to complement my current job. 
+
 <!--
 **jenniferehs/jenniferehs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
